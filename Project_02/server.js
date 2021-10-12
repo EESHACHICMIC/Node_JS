@@ -29,6 +29,8 @@ app.post('/api/student', (req, res) => {
         email: req.body.email
 
     }
+
+    console.log("ygyuuy :",user);
     students.push(user)
     res.json(user);
 
