@@ -1,0 +1,53 @@
+const student = [{
+    "id": 1,
+    "first_name": "Albert",
+    "last_name": "Looks",
+    "email": "alooks0@cbslocal.com"
+}, {
+    "id": 2,
+    "first_name": "Jerrome",
+    "last_name": "Grealey",
+    "email": "jgrealey1@epa.gov"
+}, {
+    "id": 3,
+    "first_name": "Corilla",
+    "last_name": "Bownes",
+    "email": "cbownes2@netvibes.com"
+}, {
+    "id": 4,
+    "first_name": "Bryon",
+    "last_name": "Haldon",
+    "email": "bhaldon3@phpbb.com"
+}, {
+    "id": 5,
+    "first_name": "Mil",
+    "last_name": "Escolme",
+    "email": "mescolme4@engadget.com"
+}, {
+    "id": 6,
+    "first_name": "Dora",
+    "last_name": "Struijs",
+    "email": "dstruijs5@uol.com.br"
+}, {
+    "id": 7,
+    "first_name": "Meyer",
+    "last_name": "Pleavin",
+    "email": "mpleavin6@apple.com"
+}, {
+    "id": 8,
+    "first_name": "Allison",
+    "last_name": "Stoddart",
+    "email": "astoddart7@livejournal.com"
+}, {
+    "id": 9,
+    "first_name": "Pammie",
+    "last_name": "Ragge",
+    "email": "pragge8@nytimes.com"
+}, {
+    "id": 10,
+    "first_name": "Monti",
+    "last_name": "Tyne",
+    "email": "mtyne9@hibu.com"
+}]
+
+module.exports = student;
