@@ -1,0 +1,103 @@
+const users = [{
+    "id": 1,
+    "first_name": "Annabelle",
+    "last_name": "Jedrzejewicz",
+    "email": "ajedrzejewicz0@google.com"
+}, {
+    "id": 2,
+    "first_name": "Merell",
+    "last_name": "Grace",
+    "email": "mgrace1@amazonaws.com"
+}, {
+    "id": 3,
+    "first_name": "Shirl",
+    "last_name": "Reinhardt",
+    "email": "sreinhardt2@arizona.edu"
+}, {
+    "id": 4,
+    "first_name": "Dani",
+    "last_name": "Lahive",
+    "email": "dlahive3@dailymail.co.uk"
+}, {
+    "id": 5,
+    "first_name": "Malena",
+    "last_name": "Blakeston",
+    "email": "mblakeston4@bloomberg.com"
+}, {
+    "id": 6,
+    "first_name": "Quintina",
+    "last_name": "Luttger",
+    "email": "qluttger5@fastcompany.com"
+}, {
+    "id": 7,
+    "first_name": "Allyce",
+    "last_name": "Dunster",
+    "email": "adunster6@yahoo.com"
+}, {
+    "id": 8,
+    "first_name": "Dion",
+    "last_name": "Patesel",
+    "email": "dpatesel7@wix.com"
+}, {
+    "id": 9,
+    "first_name": "Amandie",
+    "last_name": "Kubica",
+    "email": "akubica8@sourceforge.net"
+}, {
+    "id": 10,
+    "first_name": "Brade",
+    "last_name": "Steers",
+    "email": "bsteers9@youtube.com"
+}, {
+    "id": 11,
+    "first_name": "Philip",
+    "last_name": "Arnaldi",
+    "email": "parnaldia@wired.com"
+}, {
+    "id": 12,
+    "first_name": "Brockie",
+    "last_name": "Millard",
+    "email": "bmillardb@spiegel.de"
+}, {
+    "id": 13,
+    "first_name": "Devy",
+    "last_name": "Minchin",
+    "email": "dminchinc@huffingtonpost.com"
+}, {
+    "id": 14,
+    "first_name": "Shanna",
+    "last_name": "Todd",
+    "email": "stoddd@ed.gov"
+}, {
+    "id": 15,
+    "first_name": "Bernardina",
+    "last_name": "Dollimore",
+    "email": "bdollimoree@time.com"
+}, {
+    "id": 16,
+    "first_name": "Elga",
+    "last_name": "Dayley",
+    "email": "edayleyf@theguardian.com"
+}, {
+    "id": 17,
+    "first_name": "Corny",
+    "last_name": "Bradie",
+    "email": "cbradieg@disqus.com"
+}, {
+    "id": 18,
+    "first_name": "Evan",
+    "last_name": "Tinkham",
+    "email": "etinkhamh@google.co.uk"
+}, {
+    "id": 19,
+    "first_name": "Cristian",
+    "last_name": "Trownson",
+    "email": "ctrownsoni@amazon.de"
+}, {
+    "id": 20,
+    "first_name": "Kalina",
+    "last_name": "Dwyr",
+    "email": "kdwyrj@scientificamerican.com"
+}]
+
+module.exports = users;
